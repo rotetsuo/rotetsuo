@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rotetsuo
+- 🖥 I'm focused on Front-End Development
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning React and Swift
 
