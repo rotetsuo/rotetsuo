@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rotetsuo
 - 🖥 I'm focused on Front-End Development
+- 🏢 I'm currently working at EY(Earnst & Young) 
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning React and Swift
 
