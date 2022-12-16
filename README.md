@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rotetsuo
 - 🖥 I'm focused on Front-End Development
-- 🏢 I'm currently working at EY(Earnst & Young) 
+- 🏢 I'm currently working at Pago Nxt
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning React and Swift
+- 🌱 I’m currently learning MongoDB and NodeJS
 
 <!---
 rotetsuo/rotetsuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
