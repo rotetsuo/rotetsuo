@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rotetsuo
 - 🖥 I'm focused on Front-End Development
-- 🏢 I'm currently working at Pago Nxt
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning MongoDB and NodeJS
+- 👀 I’m interested in Data Science and Full Stack Development
+- 🌱 I’m currently learning Python and Swift
 
 <!---
 rotetsuo/rotetsuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
